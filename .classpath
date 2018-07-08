@@ -23,14 +23,11 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Udayanto/MyDropbox/Dropbox/Private/software/EclipseProtonWorkspace/UNWC2018/UNWC2018WorldWind/lib/gdal.jar"/>
-	<classpathentry kind="lib" path="C:/Udayanto/MyDropbox/Dropbox/Private/software/EclipseProtonWorkspace/UNWC2018/UNWC2018WorldWind/lib/gluegen-rt.jar"/>
-	<classpathentry kind="lib" path="C:/Udayanto/MyDropbox/Dropbox/Private/software/EclipseProtonWorkspace/UNWC2018/UNWC2018WorldWind/lib/gluegen-rt-natives-windows-amd64.jar"/>
-	<classpathentry kind="lib" path="C:/Udayanto/MyDropbox/Dropbox/Private/software/EclipseProtonWorkspace/UNWC2018/UNWC2018WorldWind/lib/jogl-all.jar"/>
-	<classpathentry kind="lib" path="C:/Udayanto/MyDropbox/Dropbox/Private/software/EclipseProtonWorkspace/UNWC2018/UNWC2018WorldWind/lib/jogl-all-natives-windows-amd64.jar"/>
-	<classpathentry kind="lib" path="C:/Udayanto/MyDropbox/Dropbox/Private/software/EclipseProtonWorkspace/UNWC2018/UNWC2018WorldWind/lib/junit-4.5.jar"/>
-	<classpathentry kind="lib" path="C:/Udayanto/MyDropbox/Dropbox/Private/software/EclipseProtonWorkspace/UNWC2018/UNWC2018WorldWind/lib/worldwind.jar"/>
-	<classpathentry kind="lib" path="C:/Udayanto/MyDropbox/Dropbox/Private/software/EclipseProtonWorkspace/UNWC2018/UNWC2018WorldWind/lib/worldwindx.jar"/>
-	<classpathentry kind="lib" path="C:/Udayanto/MyDropbox/Dropbox/Private/software/EclipseProtonWorkspace/UNWC2018/UNWC2018WorldWind/lib/vpf-symbols.jar"/>
+	<classpathentry kind="lib" path="C:/Udayanto/MyDropbox/Dropbox/Private/UNWLC2018/worldwind-v2.1.0/gdal.jar"/>
+	<classpathentry kind="lib" path="C:/Udayanto/MyDropbox/Dropbox/Private/UNWLC2018/worldwind-v2.1.0/gluegen-rt-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="C:/Udayanto/MyDropbox/Dropbox/Private/UNWLC2018/worldwind-v2.1.0/jogl-all-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="C:/Udayanto/MyDropbox/Dropbox/Private/UNWLC2018/worldwind-v2.1.0/worldwind.jar"/>
+	<classpathentry kind="lib" path="C:/Udayanto/MyDropbox/Dropbox/Private/UNWLC2018/worldwind-v2.1.0/worldwindx.jar"/>
+	<classpathentry kind="lib" path="C:/Udayanto/MyDropbox/Dropbox/Private/UNWLC2018/worldwind-v2.1.0/vpf-symbols.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

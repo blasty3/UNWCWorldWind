@@ -13,12 +13,6 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
-<repositories>
-		<repository>
-			<id>worldwind</id>
-			<url>https://github.com/blasty3/UNWCWorldWind/tree/master/lib</url>
-		</repository>
-</repositories>
 
   <dependencies>
     <dependency>
@@ -27,9 +21,41 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+      <groupId>lib</groupId>
+      <artifactId>gdal</artifactId>
+      <version>1.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>lib</groupId>
+      <artifactId>worldwind</artifactId>
+      <version>1.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>lib</groupId>
+      <artifactId>worldwindx</artifactId>
+      <version>1.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>lib</groupId>
+      <artifactId>gluegen</artifactId>
+      <version>1.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>lib</groupId>
+      <artifactId>jogl</artifactId>
+      <version>1.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>lib</groupId>
+      <artifactId>vpf-symbols</artifactId>
+      <version>1.0</version>
+      <scope>compile</scope>
+    </dependency>
   </dependencies>
-  
-
- 
-
 </project>
